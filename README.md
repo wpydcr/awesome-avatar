@@ -391,6 +391,7 @@ Neural Head Avatar arXiv'23](https://research.nvidia.com/labs/lpr/one-shot-avata
 9. metahuman-stream: Real time interactive streaming digital human https://github.com/lipku/metahuman-stream
 10. EasyVolcap: a PyTorch library for accelerating neural volumetric video research https://github.com/zju3dv/EasyVolcap
 11. 3D Model in gradio https://www.gradio.app/guides/how-to-use-3D-model-component
+12. NanoAvatar: Audio-driven talking avatars on older Android phones, with lifelike, smooth video, fast responses, and no cloud GPU https://github.com/wpydcr/NanoAvatar
 
 ### Automatic Speech Recognition (ASR)
 1. BELLE-2/Belle-whisper-large-v3-zh https://huggingface.co/BELLE-2/Belle-whisper-large-v3-zh
